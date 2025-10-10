@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alperen.atar.2001@gmail.com**
 
-- Personal Website **https://alperenatar.github.io/Portfolio/**
+- Personal Website => **https://alperenatar.github.io/Portfolio/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
