@@ -13,15 +13,7 @@ Computer Engineering Student • Cyber Security • Web • Networking
 - 🌱 Currently learning **Networking, Python, Django**
 - 📬 Reach me: **alperen.atar.2001@gmail.com**
 - 🌐 Portfolio: https://alperenatar.github.io/Portfolio/
-
----
-
-### 🌐 Connect with me
-<p>
-<a href="https://linkedin.com/in/mahmut-alperen-atar-139202223">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-</a>
-</p>
+- 👨‍💻 LinkedIn: https://linkedin.com/in/mahmut-alperen-atar-139202223
 
 ---
 
