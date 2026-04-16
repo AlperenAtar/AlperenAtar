@@ -2,70 +2,43 @@
 
 <h1 align="center">Hi 👋, I'm Alperen Atar</h1>
 
-<p align="center">
-  <b>Computer Engineering Student</b> <br/>
-  Cyber Security • Backend Development • Networking
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/mahmut-alperen-atar-139202223">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:alperen.atar.2001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://alperenatar.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<h3 align="center">
+Computer Engineering Student • Cyber Security • Web • Networking
+</h3>
 
 ---
 
-## 🚀 About Me
-
-- 🎯 Focus: **Cyber Security & Backend Systems**
-- 🧠 Currently learning: **Networking, Python, Django**
-- ⚡ Goal: Building scalable & secure systems
-- 🛠️ Interested in: **Web Security, APIs, System Design**
-
----
-
-## 🧩 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=csharp,python,django,js,react,html,css,flutter,firebase,mongodb,mysql,postgres" />
-</p>
+### 🚀 About Me
+- 🎯 Focused on **Cyber Security & Backend Development**
+- 🌱 Currently learning **Networking, Python, Django**
+- 📬 Reach me: **alperen.atar.2001@gmail.com**
+- 🌐 Portfolio: https://alperenatar.github.io/Portfolio/
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alperenatar&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alperenatar&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenatar&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## 🚀 Featured Projects (ÖNEMLİ)
-
-<p align="center">
-<a href="PROJE_LINK_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alperenatar&repo=REPO_ADI&theme=tokyonight" />
+### 🌐 Connect with me
+<p>
+<a href="https://linkedin.com/in/mahmut-alperen-atar-139202223">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
-<a href="PROJE_LINK_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alperenatar&repo=REPO_ADI&theme=tokyonight" />
-</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=csharp,css,dart,django,firebase,flutter,html,js,matlab,mongodb,mysql,postgres,python,react" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=alperenatar&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenatar&layout=compact&theme=tokyonight" />
 </p>
