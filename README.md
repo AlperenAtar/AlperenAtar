@@ -10,7 +10,7 @@ Computer Engineering Student • Cyber Security • Web • Networking
 
 ### 🚀 About Me
 - 🎯 Focused on **Cyber Security & Backend Development**
-- 🌱 Currently learning **Networking, Python, Django**
+- 🌱 Currently learning **Networking, Cyber Security and Web Development**
 - 📬 Reach me: **alperen.atar.2001@gmail.com**
 - 🌐 Portfolio: https://alperenatar.github.io/Portfolio/
 - 👨‍💻 LinkedIn: https://linkedin.com/in/mahmut-alperen-atar-139202223
