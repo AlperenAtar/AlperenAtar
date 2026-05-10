@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alperen Atar</h1>
 
 <h3 align="center">
-Computer Engineering Student • Cyber Security • Web • Networking
+Cyber Security • Web Development • Networking
 </h3>
 
 ---
@@ -21,16 +21,4 @@ Computer Engineering Student • Cyber Security • Web • Networking
 
 <p>
 <img src="https://skillicons.dev/icons?i=csharp,css,dart,django,firebase,flutter,html,js,matlab,mongodb,mysql,postgres,python,react" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=alperenatar&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alperenatar&layout=compact&theme=tokyonight" />
 </p>
